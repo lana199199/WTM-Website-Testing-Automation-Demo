@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com')
+WebUI.navigateToUrl('https://katalon.com/')
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.delay(5)
+WebUI.delay(3)
 

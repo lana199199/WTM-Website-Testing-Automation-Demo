@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test1,Chrome 106.0.0.0,,,2022-10-18 08:33:39,2022-10-18 08:33:52,12.974s,FAILED
+,,,,,,,
+Test Cases/NewTestCase,Chrome 106.0.0.0,,,2022-10-18 08:33:40,2022-10-18 08:33:52,12.563s,FAILED
+"openBrowser("""")",Chrome 106.0.0.0,,,2022-10-18 08:33:40,2022-10-18 08:33:45,5.032s,PASSED
+"navigateToUrl(""https://ifconfig.me"")",Chrome 106.0.0.0,,,2022-10-18 08:33:45,2022-10-18 08:33:47,2.036s,PASSED
+delay(5),Chrome 106.0.0.0,,,2022-10-18 08:33:47,2022-10-18 08:33:52,5.062s,PASSED
+"navigateToUrl(""https://www.google.com"")",Chrome 106.0.0.0,,,2022-10-18 08:33:52,2022-10-18 08:33:52,0.112s,FAILED
